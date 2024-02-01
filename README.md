@@ -1,1 +1,2 @@
-This AI uses minimax algorithm and it is optimized with alpha-beta.
+Daniel Fernández López - 2024 (20 y/o)
+This AI uses minimax algorithm optimized with alpha-beta.
